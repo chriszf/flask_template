@@ -4,7 +4,12 @@
 
 ## Heroku
 
+
+
 ### Getting Setup
+
+
+__Don't worry about this before demo day!__
 
 To get started with heroku, download and install the heroku toolkbelt. This will install several things on your system for you, but we only care about the heroku client for now.
 
